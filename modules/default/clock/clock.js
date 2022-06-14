@@ -13,7 +13,7 @@ Module.register("clock", {
 
 		timeFormat: config.timeFormat,
 		timezone: null,
-
+        
 		displaySeconds: true,
 		showPeriod: true,
 		showPeriodUpper: false,
